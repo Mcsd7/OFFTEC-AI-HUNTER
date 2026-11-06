@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.offtec-ai-hunter/
+.smoke-data/
+.verify-*/
+.pytest_cache/
+.test-deps/
